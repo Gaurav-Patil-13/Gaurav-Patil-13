@@ -1,8 +1,6 @@
-<p align="center">
- <img src="assets/space-shooter.gif" />
-</p>
-
----
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=35eb93&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Gaurav+Patilr;;MERN+Stack;Coding" alt="Typing SVG" />
+</div>
 
 <div id="header" align="center">
   <div id="badges">
@@ -25,7 +23,7 @@
 
 ---
 
-### Hi there 👋 I'm Gaurav Patil
+### Hi there 👋                                                                                                                                                                                                                                                 
 
 ## 👨‍💻 About Me :
 
@@ -75,7 +73,4 @@ My interests span from **competitive programming** to **full-stack development**
 I’m always open to discussions, collaborations, and learning from fellow developers.  
 **LinkedIn:** [linkedin.com/in/gaurav-patil ](https://www.linkedin.com/in/gaurav-patil-1729b531a/)  
 **Email:** [gaurav.patil5@walchandsangli.ac.in](mailto:gaurav.patil5@walchandsangli.ac.in)
-
 ⭐ Feel free to explore my repositories and connect!
-
-
