@@ -1,6 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=35eb93&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Gaurav+Patilr;;MERN+Stack;Coding" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=35eb93&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Gaurav+Patil;;MERN+Stack;Coding" alt="Typing SVG" />
 </div>
+
+---
+
+<p align="center">
+ <img src="assets/space-shooter.gif" />
+</p>
+
+---
 
 <div id="header" align="center">
   <div id="badges">
