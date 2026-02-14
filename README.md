@@ -1,3 +1,5 @@
+---
+
 <p align="center">
  <img src="assets/space-shooter.gif" />
 </p>
@@ -73,4 +75,6 @@ My interests span from **competitive programming** to **full-stack development**
 I’m always open to discussions, collaborations, and learning from fellow developers.  
 **LinkedIn:** [linkedin.com/in/gaurav-patil ](https://www.linkedin.com/in/gaurav-patil-1729b531a/)  
 **Email:** [gaurav.patil5@walchandsangli.ac.in](mailto:gaurav.patil5@walchandsangli.ac.in)
+
 ⭐ Feel free to explore my repositories and connect!
+
