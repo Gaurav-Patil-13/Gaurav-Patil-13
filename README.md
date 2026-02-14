@@ -1,8 +1,8 @@
----
-
 <p align="center">
  <img src="assets/space-shooter.gif" />
 </p>
+
+---
 
 <div id="header" align="center">
   <div id="badges">
@@ -77,4 +77,5 @@ I’m always open to discussions, collaborations, and learning from fellow devel
 **Email:** [gaurav.patil5@walchandsangli.ac.in](mailto:gaurav.patil5@walchandsangli.ac.in)
 
 ⭐ Feel free to explore my repositories and connect!
+
 
