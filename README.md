@@ -48,7 +48,6 @@ My interests span from **competitive programming** to **full-stack development**
 - 🧠 Strong interest in **Competitive Programming (C++)**
 - 🏆 Active in **CodeChef, LeetCode & contest problem solving**
 - 🌐 Learning and building projects using **Web Technologies**
-- 🧩 Experience as a **Problem Setter & Presenter** in coding events
 - 🤝 Actively involved in **technical clubs and community events**
 - 📚 Curious about **Computer Architecture, System Design & Core CS**
 
