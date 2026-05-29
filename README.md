@@ -53,39 +53,50 @@ My interests span from **competitive programming** to **full-stack development**
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Skills:
 
 ### Frontend
-<img src="./images/react.png" height="50" />
-<img src="./images/html.png" height="50" />
-<img src="./images/css.png" height="50" />
-<img src="./images/js.png" height="50" />
-<img src="./images/tailwind_css.png" height="50" />
-<img src="./images/vite.png" height="50" />
+<p align="left">
+  <img src="./images/react.png" width="50">
+  <img src="./images/html.png" width="50">
+  <img src="./images/css.png" width="50">
+  <img src="./images/js.png" width="50">
+  <img src="./images/tailwind_css.png" width="50">
+  <img src="./images/vite.png" width="50">
+</p>
 
 ### Backend
-<img src="./images/node.png" height="50" />
-<img src="./images/express_js.png" height="50" />
-<img src="./images/rest_api.png" height="50" />
+<p align="left">
+  <img src="./images/node.png" width="50">
+  <img src="./images/express_js.png" width="50">
+  <img src="./images/rest_api.png" width="50">
+</p>
 
 ### Databases
-<img src="./images/mongo.png" height="50" />
-<img src="./images/mysql.png" height="50" />
-<img src="./images/postgres.svg" height="50" />
-<img src="./images/database.png" height="50" />
+<p align="left">
+  <img src="./images/mongo.png" width="50">
+  <img src="./images/mysql.png" width="50">
+  <img src="./images/postgres.svg" width="50">
+  <img src="./images/database.png" width="50">
+</p>
 
 ### Programming Languages
-<img src="./images/c++.png" height="50" />
-<img src="./images/c.png" height="50" />
-<img src="./images/js.png" height="50" />
+<p align="left">
+  <img src="./images/c.png" width="50">
+  <img src="./images/c++.png" width="50">
+  <img src="./images/js.png" width="50">
+</p>
 
 ### Tools
-<img src="./images/git.png" height="50" />
-<img src="./images/github.png" height="50" />
-<img src="./images/docker.png" height="50" />
-<img src="./images/linux.png" height="50" />
-<img src="./images/postman.png" height="50" />
-<img src="./images/vs_code.png" height="50" />
+<p align="left">
+  <img src="./images/git.png" width="50">
+  <img src="./images/github.png" width="50">
+  <img src="./images/docker.png" width="50">
+  <img src="./images/linux.png" width="50">
+  <img src="./images/postman.png" width="50">
+  <img src="./images/vite.png" width="50">
+  <img src="./images/vs_code.png" width="50">
+</p>
 
 ---
 
