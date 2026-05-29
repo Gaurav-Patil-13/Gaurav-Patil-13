@@ -57,47 +57,46 @@ My interests span from **competitive programming** to **full-stack development**
 
 ### Frontend
 <p align="left">
-  <img src="./images/react.png" width="50">
-  <img src="./images/html.png" width="50">
-  <img src="./images/css.png" width="50">
-  <img src="./images/js.png" width="50">
-  <img src="./images/tailwind_css.png" width="50">
-  <img src="./images/vite.png" width="50">
+  <img src="./images/react.png" width="75">
+  <img src="./images/html.png" width="75">
+  <img src="./images/css.png" width="55">
+  <img src="./images/js.png" width="55">
+  <img src="./images/tailwind_css.png" width="65">
+  <img src="./images/vite.png" width="65">
 </p>
 
 ### Backend
 <p align="left">
-  <img src="./images/node.png" width="50">
-  <img src="./images/express_js.png" width="50">
-  <img src="./images/rest_api.png" width="50">
+  <img src="./images/node.png" width="65">
+  <img src="./images/express_js.png" width="65">
+  <img src="./images/rest_api.png" width="60">
 </p>
 
 ### Databases
 <p align="left">
-  <img src="./images/mongo.png" width="50">
-  <img src="./images/mysql.png" width="50">
-  <img src="./images/postgres.svg" width="50">
-  <img src="./images/database.png" width="50">
+  <img src="./images/mongo.png" width="60">
+  <img src="./images/mysql.png" width="60">
+  <img src="./images/postgres.svg" width="60">
+  <img src="./images/database.png" width="60">
 </p>
 
 ### Programming Languages
 <p align="left">
-  <img src="./images/c.png" width="50">
-  <img src="./images/c++.png" width="50">
-  <img src="./images/js.png" width="50">
+  <img src="./images/c.png" width="60">
+  <img src="./images/c++.png" width="60">
+  <img src="./images/js.png" width="55">
 </p>
 
 ### Tools
 <p align="left">
-  <img src="./images/git.png" width="50">
-  <img src="./images/github.png" width="50">
-  <img src="./images/docker.png" width="50">
-  <img src="./images/linux.png" width="50">
-  <img src="./images/postman.png" width="50">
-  <img src="./images/vite.png" width="50">
-  <img src="./images/vs_code.png" width="50">
+  <img src="./images/git.png" width="60">
+  <img src="./images/github.png" width="60">
+  <img src="./images/docker.png" width="60">
+  <img src="./images/linux.png" width="60">
+  <img src="./images/postman.png" width="60">
+  <img src="./images/vite.png" width="60">
+  <img src="./images/vs_code.png" width="60">
 </p>
-
 ---
 
 <!-- ### 🧩 LeetCode Stats
