@@ -98,7 +98,6 @@ My interests span from **competitive programming** to **full-stack development**
   <img src="./images/vite.png" width="60">
   <img src="./images/vs_code.png" width="60">
 </p>
----
 
 <!-- ### 🧩 LeetCode Stats
 <img src="https://leetcard.jacoblin.cool/gauravpatil?theme=dark&ext=heatmap" alt="LeetCode Stats"/>
