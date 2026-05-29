@@ -95,6 +95,7 @@ My interests span from **competitive programming** to **full-stack development**
   <img src="./images/docker.png" width="60">
   <img src="./images/linux.png" width="60">
   <img src="./images/postman.png" width="60">
+  <img src="./images/vercel.png" width="70">
   <img src="./images/vite.png" width="60">
   <img src="./images/vs_code.png" width="60">
 </p>
