@@ -77,6 +77,7 @@ My interests span from **competitive programming** to **full-stack development**
   <img src="./images/mongo.png" width="60">
   <img src="./images/mysql.png" width="60">
   <img src="./images/postgres.svg" width="60">
+  <img src="./images/neo4j.png" width="70">
   <img src="./images/database.png" width="60">
 </p>
 
