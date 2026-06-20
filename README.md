@@ -49,7 +49,6 @@ My interests span from **competitive programming** to **full-stack development**
 - 🏆 Active in **CodeChef, LeetCode & contest problem solving**
 - 🌐 Learning and building projects using **Web Technologies**
 - 🤝 Actively involved in **technical clubs and community events**
-- 📚 Curious about **Computer Architecture, System Design & Core CS**
 
 ---
 
@@ -118,7 +117,7 @@ My interests span from **competitive programming** to **full-stack development**
 ## 📫 Let's Connect
 I’m always open to discussions, collaborations, and learning from fellow developers.  
 **LinkedIn:** [linkedin.com/in/gaurav-patil ](https://www.linkedin.com/in/gaurav-patil-1729b531a/)  
-**Email:** [gaurav.patil5@walchandsangli.ac.in](mailto:gaurav.patil5@walchandsangli.ac.in)
+**Email:** [gauravofficial4545@gmail.com](mailto:gauravofficial4545@gmail.com)
 
 ⭐ Feel free to explore my repositories and connect!
 
